@@ -56,5 +56,6 @@ local/
 dev/
 test-data/
 
-blog-outline.md
+# Personal notes / drafts
+/blog-outline.md
 /scripts

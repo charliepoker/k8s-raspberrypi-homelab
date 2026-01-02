@@ -29,7 +29,7 @@ A complete guide for setting up a 3-node Kubernetes cluster using Raspberry Pi 4
 5. [Cluster Configuration](docs/05-cluster-config.md)
 6. [Sample Applications](docs/06-sample-apps.md)
 
-## Learning Objectives
+<!-- ## Learning Objectives
 
 - CKA certification preparation
 - Kubernetes cluster administration
@@ -48,6 +48,6 @@ This project will be documented as a blog series covering:
 - Monitoring and observability
 - Troubleshooting common issues
 
----
+--- -->
 
-_Last updated: December 2024_
+

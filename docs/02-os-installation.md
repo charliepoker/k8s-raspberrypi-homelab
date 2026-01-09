@@ -155,9 +155,9 @@ ssh-keygen -t ed25519 -C "k8s-homelab"
 Copy to each node:
 
 ```bash
-ssh-copy-id pi@192.168.1.100
-ssh-copy-id pi@192.168.1.101
-ssh-copy-id pi@192.168.1.102
+ssh-copy-id ubuntu@10.0.0.212
+ssh-copy-id ubuntu@10.0.0.248
+ssh-copy-id ubuntu@10.0.0.116
 ```
 
 ### 2. Disable Password Authentication
